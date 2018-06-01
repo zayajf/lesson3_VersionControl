@@ -5,16 +5,18 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+6/01/18
 
 ## Student Name:  
-(First and Last Name)
+Jonathon Zayas
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson3_VersionControl
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Verion Control
+2. Distributed VCS
+3. Repositories
+4. GitHub   
+5. Github commands
 
